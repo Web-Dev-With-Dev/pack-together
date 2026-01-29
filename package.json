@@ -29,7 +29,7 @@
     "framer-motion": "^12.7.2",
     "jspdf": "^3.0.1",
     "lucide-react": "^0.475.0",
-    "next": "^15.2.0",
+    "next": "15.2.8",
     "next-themes": "^0.4.6",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
